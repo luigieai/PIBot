@@ -19,7 +19,7 @@
   "homepage": "https://github.com/luigieai/PIBot#readme",
   "dependencies": {
     "@yamdbf/core": "^3.0.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "discord.js": "^11.2.0",
     "dotenv": "^8.1.0",
     "public-ip": "^3.2.0"
